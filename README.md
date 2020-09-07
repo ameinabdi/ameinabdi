@@ -1,6 +1,5 @@
  # Hi 🖐 I'm<a href="http://www.ameinabdi.com/"> Amein Abdi</a> :smiley:
 
-
 <br>
 <a href="https://twitter.com/ameinabdi">
   <img align="left" alt="ameinabdi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,14 +19,12 @@
 <br>
 
 ### About Me
-
 <br>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
 
 <br>
 
 ### My Github Stats
-
 ![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
 
 
