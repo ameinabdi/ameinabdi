@@ -1,4 +1,3 @@
-###  <br>
  # Hi 🖐 I'm<a href="http://www.ameinabdi.com/"> Amein Abdi</a> :smiley:
 
 
@@ -18,9 +17,15 @@
 <a href="https://www.ameinabdi.com">
   <img align="left" alt="ameinabdi's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
 </a>
+<br>
+
 ### About Me
+
 <br>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
+
+<br>
+
 ### My Github Stats
 
 ![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
