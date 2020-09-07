@@ -13,8 +13,9 @@ Hi 🖐 I'm Amein Abdi <br>
   <img align="left" alt="ameinabdi's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.ameinabdi.com">
-  <img align="left" alt="ameinabdi's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
+  <img align="left" alt="ameinabdi's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internet.svg" />
 </a>
+<br>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
 Let's start scrolling and learn more about me.<br>
 
