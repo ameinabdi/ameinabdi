@@ -19,7 +19,6 @@
 <br>
 
 ### About Me
-<br>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
 
 <br>
