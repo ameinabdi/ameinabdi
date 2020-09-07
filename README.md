@@ -1,9 +1,24 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-Hi 🖐 I'm Amein Abdi 
+Hi 🖐 I'm Amein Abdi <br>
+<a href="https://twitter.com/ameinabdi">
+  <img align="left" alt="ameinabdi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/ameinabdi">
+  <img align="left" alt="ameinabdi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ameinabdi/">
+  <img align="left" alt="ameinabdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://facebook.com/ameinabdi/">
+  <img align="left" alt="ameinabdi's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.ameinabdi.com">
+  <img align="left" alt="ameinabdi's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
+</a>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
-Let's start scrolling and learn more about me.
+Let's start scrolling and learn more about me.<br>
 
-. Welcome to my github page! <br>
+
  
  ![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
 
