@@ -1,8 +1,11 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+Hi 🖐 I'm Amein Abdi 
+Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
+Let's start scrolling and learn more about me.
 
-I'm Amein Abdi. I'm a software developer. Welcome to my github page! <br>
+. Welcome to my github page! <br>
  
- ![rifat's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
+ ![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
 
 
 ### Languages and Tools
