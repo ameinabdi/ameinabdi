@@ -1,5 +1,8 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-Hi 🖐 I'm Amein Abdi <br>
+###  <br>
+ # Hi 🖐 I'm<a href="http://www.ameinabdi.com/"> Amein Abdi</a> :smiley:
+
+
+<br>
 <a href="https://twitter.com/ameinabdi">
   <img align="left" alt="ameinabdi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,15 +19,12 @@ Hi 🖐 I'm Amein Abdi <br>
   <img align="left" alt="ameinabdi's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
 </a>
 <br>
-<br>
-<br>
 Software developer, space enthusiast, and technologist passionate about developing solutions for a better future.
-Let's start scrolling and learn more about me.<br>
-
+<br>
+<br>
 
  
- ![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
-
+ 
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -55,8 +55,11 @@ Let's start scrolling and learn more about me.<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<a href="https://github.com/ameinabdi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameinabdi&hide=glsl,javascript" />
+</a>
 
-
+![Amein's github stats](https://github-readme-stats.vercel.app/api?username=ameinabdi&show_icons=true)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ameinabdi.ameinabdi)
   
