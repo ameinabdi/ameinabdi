@@ -63,6 +63,19 @@ Software developer, space enthusiast, and technologist passionate about developi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameinabdi&hide=glsl,javascript" />
 </a>
 
+##  Contact Me :speech_balloon:
+[![Twitter Badge](https://img.shields.io/badge/-@ameinabdi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ameinabdi)](https://twitter.com/ameinabdi)[![Gmail Badge](https://img.shields.io/badge/-ameinabdi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ameinabdi@gmail.com)](mailto:ameinabdi@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ameinabdi-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ameinabdi/)](https://www.instagram.com/ameinabdi/)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ameinabdi.ameinabdi)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ameinabdi/count.svg" />
+</p>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
   
